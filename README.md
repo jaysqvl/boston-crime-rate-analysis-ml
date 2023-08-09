@@ -1,4 +1,4 @@
-# Machine Learning Crime Rate Project
+# Machine Learning Crime Rate Analysis
 
 # Why?
 The security and stability of our homes can have dramatic influences on our lives. It should therefore come as no surprise that violent crime is correlated with neighbourhood characteristics, such as segregation and social capital, according to Sackett (2016).
